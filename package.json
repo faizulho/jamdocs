@@ -14,7 +14,7 @@
     "@gridsome/transformer-remark": "^0.3.4",
     "graphql-playground-html": "^1.6.22",
     "gridsome": "^0.7.0",
-    "gridsome-plugin-algolia": "^2.1.1",
+    "gridsome-plugin-algolia": "^2.1.4",
     "kind-of": "^6.0.3",
     "minimist": "^1.2.3",
     "serialize-javascript": "^3.1.0",
